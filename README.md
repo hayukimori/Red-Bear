@@ -22,7 +22,7 @@ A simple program to create projects on Godot, Redot or Ursina game engines.
 #### Steps
 1. Clone the repository and go to it with the following commands:
 ```
-git clone https://ww.github.com/hayukimori/Red-Bear/
+git clone https://www.github.com/hayukimori/Red-Bear/
 ```
 ```
 cd Read-Bear
