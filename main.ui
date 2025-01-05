@@ -300,8 +300,8 @@ QPushButton:checked{
       <string>2D</string>
      </property>
      <property name="icon">
-      <iconset>
-       <normaloff>2D.svg</normaloff>2D.svg</iconset>
+      <iconset resource="main_resources.qrc">
+       <normaloff>:/icons/3D.svg</normaloff>:/icons/3D.svg</iconset>
      </property>
      <property name="iconSize">
       <size>
@@ -352,9 +352,8 @@ QPushButton:checked{
       <string>3D</string>
      </property>
      <property name="icon">
-      <iconset>
-       <selectedon>3D.svg</selectedon>
-      </iconset>
+      <iconset resource="main_resources.qrc">
+       <normaloff>:/icons/3D.svg</normaloff>:/icons/3D.svg</iconset>
      </property>
      <property name="checkable">
       <bool>true</bool>

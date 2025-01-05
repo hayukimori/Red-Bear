@@ -1,6 +1,3 @@
-# Debugger
-from icecream import ic
-
 # String
 import unicodedata
 import re
