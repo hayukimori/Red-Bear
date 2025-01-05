@@ -129,7 +129,7 @@ class MainAppTols():
 
         for current_path in full_paths:
             current_path.mkdir(parents=True, exist_ok=True)
-            ic(current_path)
+            print(f"mkdir: {current_path!r} created")
 
 
 
